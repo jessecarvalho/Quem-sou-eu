@@ -1,0 +1,29 @@
+body{
+    height: 100vh;
+    color: white !important;
+    background-image: linear-gradient(to right top, #051937, #004d7a, #008793, #00bf72, #a8eb12);
+}
+
+.main{
+    height: 100vh;
+    display: flex;
+}
+
+.main-content{
+    text-align: center;
+    margin: auto;
+    width: fit-content;
+}
+
+.main-content h1{
+    font-size: 4em;
+}
+
+.main-content h2{
+    font-size: 1.1em;
+}
+
+.img{
+    border-radius: 10px;
+    width: 20%;
+}
