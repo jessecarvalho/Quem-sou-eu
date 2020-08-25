@@ -11,41 +11,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7ad0c82f-a498-4d12-9cbe-a53fd03f76e2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/app/public/characters.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/public/img/bobesponja.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/public/img/bolsonaro.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/public/img/bus.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/public/img/chaves.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/public/img/chris.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/public/img/coringa.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/public/img/dilma.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/public/img/edward.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/public/img/faustao.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/public/img/greg.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/public/img/harrypotter.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/public/img/homemaranha.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/public/img/hommer.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/public/img/julius.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/public/img/justinbieber.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/public/img/lula.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/public/img/michaeljackson.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/public/img/minions.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/public/img/naruto.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/public/img/neymar.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/public/img/omar.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/public/img/patrick.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/public/img/picapau.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/public/img/raven.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/public/img/rochelle.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/public/img/seumadruga.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/public/img/shrek.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/public/img/silviosantos.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/public/img/voldemort.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/public/img/xuxa.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/public/script/Controller/SiteController.js" beforeDir="false" afterPath="$PROJECT_DIR$/app/public/script/Controller/SiteController.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/routes/characters.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/views/index.ejs" beforeDir="false" afterPath="$PROJECT_DIR$/app/views/index.ejs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -112,7 +79,7 @@
       <updated>1597864641277</updated>
       <workItem from="1597864644172" duration="3825000" />
       <workItem from="1597932131614" duration="8205000" />
-      <workItem from="1598017974339" duration="8465000" />
+      <workItem from="1598017974339" duration="10109000" />
     </task>
     <servers />
   </component>
